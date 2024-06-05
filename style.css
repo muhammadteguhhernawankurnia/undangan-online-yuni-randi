@@ -1,6 +1,6 @@
 /* root untuk menyimpan data variabel di css */
 :root {
-  --pink: #24496b;
+  --pink: #2b2b2b;
   /* --pink: #2F2F2F; */
   --bg: #0a0a0a;
   --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
@@ -82,7 +82,7 @@ body {
 }
 
 .home {
-  background-image: url(img/estetik-bg.jpg);
+  background-image: url(img/bg-2.jpg);
   background-size: cover;
   min-height: 100vh;
   margin-top: -6rem;
